@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/faq-accordion-card-WMed-4QuQD)
-- Live Site URL: [Add live site URL here](https://saurabhisdev.github.io/FAQ-Accordion-Card/)
+- Live Site URL: [Add live site URL here](https://saurabh-gih.github.io/FAQ-Accordion-Card/)
 
 ## My process
 
